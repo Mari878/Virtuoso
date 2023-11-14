@@ -7,7 +7,7 @@ https://templatemo.com/tm-525-the-town
 */
 
 html {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 body {
@@ -222,7 +222,7 @@ a:focus {
 /* Introduction */
 
 .tm-section-title {
-  font-size: 2.6rem;
+  font-size: 1.5rem;
   font-weight: normal;
 }
 
@@ -418,7 +418,7 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-image: url(../img/the-town-bg-01.png);
+  background-image: url(../img/the-town-bg-02.png);
   background-position: center;
   background-repeat: no-repeat;
   min-height: 850px;
